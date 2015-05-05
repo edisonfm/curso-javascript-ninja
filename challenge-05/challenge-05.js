@@ -13,7 +13,7 @@ function returnArray(array){
 /*
 Imprima o segundo índice do array retornado pela função criada acima.
 */
-returnArray(array)[1]; // 10
+returnArray(array)[1]; // 10 
 
 /*
 Crie uma função que receba dois parâmetros: o primeiro, um array de valores; e o
