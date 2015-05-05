@@ -61,7 +61,7 @@ function book(name){
 		'Aplicações web real-time com Node.js': { quantidadePaginas: 158, autor: 'Caio Ribeiro Pereira', editora: 'Casa do Código' }
 	}
 
-	return name ? books[name] : books;
+	return name ? books[name] : books; 
 }
 
 /*
